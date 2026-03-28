@@ -1,2 +1,1 @@
-goodluck.version 0.0.3
 40387c51bb86495f30cfec20e297207e26bc6bfb
